@@ -1,0 +1,52 @@
+{
+  "name": "fullname-cli",
+  "version": "0.0.0",
+  "description": "Get the fullname of the current user",
+  "license": "MIT",
+  "repository": "sindresorhus/fullname-cli",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "bin": {
+    "fullname": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "name",
+    "fullname",
+    "realname",
+    "full name",
+    "first name",
+    "surname",
+    "full",
+    "real",
+    "given",
+    "user",
+    "gecos",
+    "pwuid",
+    "uid"
+  ],
+  "dependencies": {
+    "fullname": "^2.0.0",
+    "meow": "^3.4.2"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
