@@ -42,6 +42,9 @@
     "fullname": "^2.0.0",
     "meow": "^3.4.2"
   },
+  "optionalDependencies": {
+    "fullname-native": "2.0.0"
+  },
   "devDependencies": {
     "ava": "*",
     "xo": "*"
