@@ -39,7 +39,7 @@
     "uid"
   ],
   "dependencies": {
-    "fullname": "^2.0.0",
+    "fullname": "^3.0.0",
     "meow": "^3.4.2"
   },
   "optionalDependencies": {
