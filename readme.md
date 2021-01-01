@@ -1,4 +1,4 @@
-# fullname-cli [![Build Status](https://travis-ci.org/sindresorhus/fullname-cli.svg?branch=master)](https://travis-ci.org/sindresorhus/fullname-cli)
+# fullname-cli
 
 > Get the fullname of the current user
 
